@@ -1,5 +1,5 @@
 {
   "name": "Development Environment",
-  "forwardPorts": [9500],
+  "forwardPorts": [3000],
   "postStartCommand": "npm i"
 }
